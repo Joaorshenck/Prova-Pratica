@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.global{
+    border: 2px solid;
+    padding: 10px;
+    margin: auto;
+    width: 960px;
+    height: 930px;
+    color: #d7d7d7;
+}
+
+.topo{
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 936px;
+    height: 200px;
+    color: #e40090;
+}
+.topo h2{
+    line-height: 200px;
+    margin: 0;
+}
+
+.conteudo{
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 480px;
+    height: 400px;
+    float: left;
+    color: #98dac6;
+}
+.conteudo h2{
+    line-height: 400px;
+    margin: 0;
+}
+
+.menu{
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 420px;
+    height: 400px;
+    float: right;
+    color: #8dc9e8;
+}
+.menu h2{
+    line-height: 400px;
+    margin: 0;
+}
+
+.rodape{
+    border: 2px solid;
+    padding: 10px;
+    margin-top: 10px;
+    width: 936px;
+    height: 150px;
+    color: #ff7d00;
+    clear: both;
+}
+.rodape h2{
+    line-height: 150px;
+    margin: 0;
+}
+
+h2{
+    text-align: left;
+    font-family: 'Bebas Neue Regular', regular;
+  }
